@@ -1,4 +1,7 @@
-.DS_Store
-node_modules/
+venv/
+data/
 .env
-
+results/
+combo.txt
+proxies.txt
+__pycache__
